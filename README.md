@@ -19,7 +19,7 @@
 
 C++은 C에 비해선 훨씬 좋은 언어이긴 하네요 확실히 기능이 많아요.
 
-보통 cout 쓰는데 뭐 출력할땐
+뭐 출력할땐 보통 cout 쓰는데
 
 전 printf 썼어요 걍
 
@@ -37,6 +37,6 @@ I just transferred it to the console as is.
 
 The language is... well, C++, and it's definitely a much better language than C with a lot more features.
 
-Normally, people use cout, but for printing, I just used printf for simplicity.
+Normally, people use cout, but I just used printf for simplicity.
 
 Anyway... hope you all have fun!
