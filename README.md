@@ -33,8 +33,6 @@ Cacti are coming at you, and you're the @ symbol. You need to jump to avoid them
 
 I added logic to make it gradually faster, but I’m not sure if it works properly since I haven’t tested it. It will reach maximum speed after 3 minutes.
 
-I just transferred it to the console as is.
-
 The language is... well, C++, and it's definitely a much better language than C with a lot more features.
 
 Normally, people use cout, but I just used printf for simplicity.
